@@ -1,6 +1,6 @@
-# Pull Requests Rules
+# 1. Pull Requests Rules
 
-## For Developers
+## 1.1 For Developers
 
 1. All PRs should be as small as possible
 2. Write useful descriptions and titles
@@ -9,7 +9,7 @@
 5. Add some screenshots for your front-end changes
 6. Always work on a dedicated branch, but try not to have things that depend on each other in different branches that are not merged in *dev* yet
 
-## For Reviewers
+## 1.2 For Reviewers
 
 1. Integrate quickly (at least once a day)
 2. Test the PR on local machine before merging it into *dev*
