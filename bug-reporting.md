@@ -1,4 +1,6 @@
-## WAM QA Testing
+# WAM QA Testing
+
+### What is WAM
 
 **WAM** is a mobile (and web) app where people of all ages come and enjoy many hyper-casual games in a social, competitive environment.
 
@@ -7,15 +9,30 @@ You can find and install the app at the following URLs:
 
 > Android: https://play.google.com/store/apps/details?id=com.digitap.wam
 
+### What is the goal of QA
+
 Our main goal with the manual QA testing is to ensure that people from different countries, with different internet connections/speeds and with different types of devices (high end or low end) have the same great experience when playing on WAM.
 
-This being said, your role will be to make 1 or 2 bug reports per month (each in the limit of 1-2 hours per report). The report can be made on either one device type (Android/iOS), or even better, on both. We expect from you a bug report with a detailed description of the bugs found, steps to reproduce, browser, device info, and screenshots/video of the bug.
+This being said, your role will be to make 1 or 2 bug reports per month (each in the limit of 2 hours per report). The report can be made on either one device type (Android/iOS), or even better, on both. 
 
-We will send you a message every time we need a new bug report. Sometimes we’ll ask you to test a certain area of the app more than others.
+### What are the deliverables
 
-------------
+Your bug report needs to contain the following pieces:
 
-But in general you will need to go through the following test cases:
+- a detailed description of the bugs found;
+- steps to reproduce;
+- screenshots/video recordings of the bug;
+- a full-lenght video recording of the whole testing session;
+- device medium info (device type, OS version, app version, internet connection type, etc);
+
+Also, try to:
+
+- use Google Docs / Sheets in order to create the bug report (don't send txt files);
+- upload the videos / screenshots on some file sharing service (google drive, dropbox, wetransfer);
+
+### What you need to test
+
+In general you will need to go through the following "test cases":
 
 1. **Install** the app (iOS/Android)
 
@@ -84,8 +101,10 @@ Feel free to test any other feature of the app (like chat, adding friends, see o
 
 ------------
 
-It will be awesome if you can provide a full video of the testing. This way we can get a feeling of also how the app is moving, and how the user experience feels like.
+### Other info
 
-As stated before any other input from you is welcomed. You should try to enjoy the app and tell us if it’s catchy, if you like the concept.
+We will send you a message every time we need a new bug report. Sometimes we’ll ask you to test a certain area of the app more than others.
+
+As stated before any other input from you is welcomed. You should try to enjoy the app and at the end tell us what you think about it.
 
 If you have any other question, please let us know.
